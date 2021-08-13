@@ -14,10 +14,8 @@
 		290137F326C6AD0F00E61C55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290137F226C6AD0F00E61C55 /* Assets.xcassets */; };
 		290137F626C6AD0F00E61C55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290137F426C6AD0F00E61C55 /* LaunchScreen.storyboard */; };
 		2901380726C6E32000E61C55 /* videoplayback-3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2901380226C6E31B00E61C55 /* videoplayback-3.mp4 */; };
-		2901380826C6E32000E61C55 /* videoplayback-5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2901380326C6E31C00E61C55 /* videoplayback-5.mp4 */; };
 		2901380926C6E32000E61C55 /* videoplayback-2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2901380426C6E31D00E61C55 /* videoplayback-2.mp4 */; };
 		2901380A26C6E32000E61C55 /* videoplayback-1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2901380526C6E31E00E61C55 /* videoplayback-1.mp4 */; };
-		2901380B26C6E32000E61C55 /* videoplayback-4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2901380626C6E31F00E61C55 /* videoplayback-4.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,10 +28,8 @@
 		290137F526C6AD0F00E61C55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		290137F726C6AD0F00E61C55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2901380226C6E31B00E61C55 /* videoplayback-3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "videoplayback-3.mp4"; sourceTree = "<group>"; };
-		2901380326C6E31C00E61C55 /* videoplayback-5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "videoplayback-5.mp4"; sourceTree = "<group>"; };
 		2901380426C6E31D00E61C55 /* videoplayback-2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "videoplayback-2.mp4"; sourceTree = "<group>"; };
 		2901380526C6E31E00E61C55 /* videoplayback-1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "videoplayback-1.mp4"; sourceTree = "<group>"; };
-		2901380626C6E31F00E61C55 /* videoplayback-4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "videoplayback-4.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,8 +69,6 @@
 				290137F226C6AD0F00E61C55 /* Assets.xcassets */,
 				2901380426C6E31D00E61C55 /* videoplayback-2.mp4 */,
 				2901380226C6E31B00E61C55 /* videoplayback-3.mp4 */,
-				2901380626C6E31F00E61C55 /* videoplayback-4.mp4 */,
-				2901380326C6E31C00E61C55 /* videoplayback-5.mp4 */,
 				2901380526C6E31E00E61C55 /* videoplayback-1.mp4 */,
 				290137F426C6AD0F00E61C55 /* LaunchScreen.storyboard */,
 				290137F726C6AD0F00E61C55 /* Info.plist */,
@@ -140,12 +134,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2901380726C6E32000E61C55 /* videoplayback-3.mp4 in Resources */,
-				2901380B26C6E32000E61C55 /* videoplayback-4.mp4 in Resources */,
 				290137F626C6AD0F00E61C55 /* LaunchScreen.storyboard in Resources */,
 				290137F326C6AD0F00E61C55 /* Assets.xcassets in Resources */,
 				2901380926C6E32000E61C55 /* videoplayback-2.mp4 in Resources */,
 				2901380A26C6E32000E61C55 /* videoplayback-1.mp4 in Resources */,
-				2901380826C6E32000E61C55 /* videoplayback-5.mp4 in Resources */,
 				290137F126C6AD0400E61C55 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
